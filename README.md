@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniela</h1>
 <h3 align="center">A computer engineer student in Madrid</h3>
 
-
-
-- 🔭 I’m currently working on **42Madrid Projects**
+- 🔭 I’m currently working on my **thesis**, **42Madrid** and **university related projects**
 
 - 🌱 I’m currently learning **Product Design, GUI, OS, Networks, Machine Learning among others**
 
