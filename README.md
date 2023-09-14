@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniela</h1>
 <h3 align="center">A computer engineer student in Madrid</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dai-vl" alt="dai-vl" /></a> </p>
-
 - 🔭 I’m currently working on **42Madrid Projects**
 
 - 🌱 I’m currently learning **Product Design, GUI, OS, Networks, Machine Learning**
