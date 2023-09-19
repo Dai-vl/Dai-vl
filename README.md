@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **thesis**, **42Madrid** and **university related projects**
 
-- 🌱 I’m currently learning **Product Design, GUI, OS, Networks, Machine Learning among others**
+- 🌱 Currently learning **Product Design, GUI, OS, Networks, Machine Learning among others**
 
 - 📫 How to reach me **danielavidal.lf@gmail.com**
 
