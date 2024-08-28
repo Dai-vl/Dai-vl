@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniela</h1>
-<h3 align="center">A computer engineer student in Madrid</h3>
+<h1 align="center">Hi, I'm Daniela</h1>
+<h3 align="center">A Data Scientist in Madrid</h3>
 
 📫 How to reach me **danielavidal.lf@gmail.com**
 
